@@ -1,0 +1,4 @@
+image:
+  repository: alanyoshida/go-api
+  tag: latest
+  pullPolicy: IfNotPresent
